@@ -1,5 +1,9 @@
 -- chapter 1 , single-line comment: everything after the two dashes is ignored. 
 
+/* Criminal fire destroys science wing at College Jean Moulin 
+Which call reported the school fire before the first wirness saw it?
+*/ 
+
 -- Identifying the call before the first fire
 
 --checkpoint 1 
